@@ -1,0 +1,1439 @@
+﻿Log file open, 11/24/21 13:44:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE4_FrogCircus
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205561
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, GPU: Radeon RX 590 Series
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:699][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:708][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-13.44.19:708][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-13.44.19:709][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-13.44.19:709][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.24-13.44.19:709][  0]LogHAL: Display: Platform has ~ 16 GB [17121353728 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.24-13.44.19:709][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.24-13.44.19:709][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.24-13.44.19:709][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.24-13.44.19:710][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Scalability.ini]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.24-13.44.19:711][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Engine.ini]
+[2021.11.24-13.44.19:711][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Config/Windows/Editor.ini]
+[2021.11.24-13.44.19:711][  0]LogInit: Computer: DESKTOP-MHGMKFL
+[2021.11.24-13.44.19:711][  0]LogInit: User: 1
+[2021.11.24-13.44.19:711][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.24-13.44.19:711][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.24-13.44.19:711][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.24-13.44.19:711][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.24-13.44.19:711][  0]LogMemory: Process Physical Memory: 146.18 MB used, 146.18 MB peak
+[2021.11.24-13.44.19:711][  0]LogMemory: Process Virtual Memory: 115.44 MB used, 115.44 MB peak
+[2021.11.24-13.44.19:711][  0]LogMemory: Physical Memory: 11482.43 MB used,  4845.76 MB free, 16328.20 MB total
+[2021.11.24-13.44.19:711][  0]LogMemory: Virtual Memory: 134211032.00 MB used,  6692.69 MB free, 134217728.00 MB total
+[2021.11.24-13.44.19:716][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.24-13.44.19:738][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.24-13.44.19:739][  0]LogInit: Using OS detected language (en-GB).
+[2021.11.24-13.44.19:739][  0]LogInit: Using OS detected locale (en-GB).
+[2021.11.24-13.44.19:746][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.11.24-13.44.19:930][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.24-13.44.19:942][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.24-13.44.19:956][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.24-13.44.19:956][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.24-13.44.20:098][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.24-13.44.25:709][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.11.24-13.44.25:709][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.24-13.44.25:709][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.24-13.44.25:709][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.24-13.44.25:781][  0]LogD3D11RHI:    0. 'Radeon RX 590 Series' (Feature Level 11_0)
+[2021.11.24-13.44.25:781][  0]LogD3D11RHI:       8171/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.11.24-13.44.25:783][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.24-13.44.25:783][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     Description : Radeon RX 590 Series
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     DeviceId    : 67df
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     SubSysId    : 23111458
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     Revision    : 00e1
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     DedicatedVideoMemory : 8568401920 bytes
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     SharedSystemMemory : 8560676864 bytes
+[2021.11.24-13.44.25:784][  0]LogD3D11RHI:     AdapterLuid : 0 63781
+[2021.11.24-13.44.25:789][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.24-13.44.25:789][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.11.24-13.44.25:789][  0]LogWindows: EnumDisplayDevices:
+[2021.11.24-13.44.25:789][  0]LogWindows:    0. 'Radeon RX 590 Series' (P:1 D:1)
+[2021.11.24-13.44.25:789][  0]LogWindows:    1. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:790][  0]LogWindows:    2. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:790][  0]LogWindows:    3. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:790][  0]LogWindows:    4. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:791][  0]LogWindows:    5. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:791][  0]LogWindows:    6. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.11.24-13.44.25:791][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2021.11.24-13.44.25:791][  0]LogD3D11RHI:     Adapter Name: Radeon RX 590 Series
+[2021.11.24-13.44.25:791][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.10.2 (internal:30.0.13025.5005, unified:30.0.13025.5005)
+[2021.11.24-13.44.25:791][  0]LogD3D11RHI:      Driver Date: 10-5-2021
+[2021.11.24-13.44.25:791][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     Description : Radeon RX 590 Series
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     VendorId    : 1002
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     DeviceId    : 67df
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     SubSysId    : 23111458
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     Revision    : 00e1
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     DedicatedVideoMemory : 8568401920 bytes
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     SharedSystemMemory : 8560676864 bytes
+[2021.11.24-13.44.25:821][  0]LogD3D11RHI:     AdapterLuid : 0 63781
+[2021.11.24-13.44.25:901][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2021.11.24-13.44.25:901][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.24-13.44.25:901][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.24-13.44.25:901][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.24-13.44.25:913][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.11.24-13.44.26:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.24-13.44.26:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.24-13.44.26:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.24-13.44.26:257][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.24-13.44.26:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.24-13.44.26:269][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.24-13.44.26:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.24-13.44.26:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.24-13.44.26:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.24-13.44.26:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.24-13.44.26:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.24-13.44.26:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.24-13.44.26:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.24-13.44.26:322][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.24-13.44.26:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.24-13.44.26:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.24-13.44.26:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.24-13.44.26:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.24-13.44.26:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.24-13.44.26:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.24-13.44.26:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.24-13.44.26:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.24-13.44.26:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.24-13.44.26:362][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.24-13.44.26:367][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.24-13.44.26:394][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.24-13.44.26:420][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.24-13.44.26:420][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Intermediate/Shaders/WorkingDirectory/13452/).
+[2021.11.24-13.44.26:420][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1/AppData/Local/Temp/UnrealShaderWorkingDir/A25B454546D0FDA069E0B5AFA4C32B50/'.
+[2021.11.24-13.44.26:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.24-13.44.26:421][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.24-13.44.26:421][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.24-13.44.27:196][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.24-13.44.27:254][  0]LogDerivedDataCache: Loaded boot cache 0.06s 104MB C:/Users/1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.24-13.44.27:255][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.24-13.44.27:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.24-13.44.27:255][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.24-13.44.27:255][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-13.44.27:255][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.24-13.44.27:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.24-13.44.27:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.24-13.44.27:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.24-13.44.27:276][  0]LogDerivedDataCache: Speed tests for C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.24-13.44.27:276][  0]LogDerivedDataCache: Display: Performance to C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=983.59MBs, RandomWriteSpeed=194.96MBs. Assigned SpeedClass 'Local'
+[2021.11.24-13.44.27:277][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.24-13.44.27:277][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.24-13.44.27:277][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.24-13.44.27:319][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.24-13.44.27:320][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.24-13.44.27:341][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2021.11.24-13.44.27:561][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.24-13.44.27:561][  0]LogInit: Active device profile: [0000015A62480900][0000015A60C9CA80 49] Windows
+[2021.11.24-13.44.27:561][  0]LogInit: Profiles: [0000015A62480900][0000015A60C9CA80 49] Windows, [0000015A62443800][0000015A5A87ABC0 49] WindowsNoEditor, [0000015A62483500][0000015A5A87ED00 49] WindowsServer, [0000015A62440E00][0000015A5A886E80 49] WindowsClient, [0000015A62483800][0000015A5A88B000 49] IOS, [0000015A62442800][0000015A5A88F180 49] iPadAir, [0000015A62482000][0000015A5A893300 49] iPadAir2, [0000015A623B4A00][0000015A62FDB5C0 49] IPadPro, [0000015A623B4B00][0000015A5A897600 49] iPadAir3, [0000015A62441900][0000015A62FDF780 49] iPadAir4, [0000015A623B7400][0000015A62FE3900 49] iPadMini2, [0000015A62442A00][0000015A62FFBA80 49] iPadMini3, [0000015A623B5700][0000015A63039C00 49] iPadMini4, [0000015A62481100][0000015A63048200 49] iPadMini5, [0000015A623D4300][0000015A6308C4C0 49] iPhone6, [0000015A623D4400][0000015A63088500 49] iPodTouch6, [0000015A62377F00][0000015A630947C0 49] iPhone7, [0000015A62377E00][0000015A63090800 49] iPodTouch7, [0000015A62442000][0000015A5A83A980 49] iPhone5S, [0000015A62375A00][0000015A5A83EB00 49] iPhone6Plus, [0000015A623D4200][0000015A5A882C40 49] iPhone6S, [0000015A62374600][0000015A5A846D80 49] iPhone6SPlus, [0000015A623D6900][0000015A5A84AEC0 49] iPhone7Plus, [0000015A62377100][0000015A5A853040 49] iPhoneSE, [0000015A623D6200][0000015A5A8571C0 49] iPhone8, [0000015A62377B00][0000015A5A867340 49] iPhone8Plus, [0000015A623D4A00][0000015A5A86B4C0 49] iPhoneX, [0000015A62375400][0000015A5A86F640 49] iPhoneXS, [0000015A623D7D00][0000015A5A8737C0 49] iPhoneXSMax, [0000015A62374500][0000015A5A877940 49] iPhoneXR, [0000015A623D5300][0000015A62EE9AC0 49] iPhone11, [0000015A62376700][0000015A62EEC0C0 49] iPhone11Pro, [0000015A623D5000][0000015A62EF0240 49] iPhone11ProMax, [0000015A62376A00][0000015A62EF43C0 49] iPhoneSE2, [0000015A623D5400][0000015A62EF8540 49] iPhone12Mini, [0000015A62376400][0000015A62EFC6C0 49] iPhone12, [0000015A623D4D00][0000015A62F00840 49] iPhone12Pro, [0000015A62376B00][0000015A62F049C0 49] iPhone12ProMax, [0000015A623D7000][0000015A62F08B40 49] iPadPro105, [0000015A62374700][0000015A60D7CCC0 49] iPadPro129, [0000015A623D6800][0000015A5A84EE00 49] iPadPro97, [0000015A62376600][0000015A60D80F40 49] iPadPro2_129, [0000015A623D7C00][0000015A60D85080 49] iPad5, [0000015A62376200][0000015A60D891C0 49] iPad6, [0000015A623D4F00][0000015A60D91340 49] iPad7, [0000015A62377C00][0000015A60D954C0 49] iPad8, [0000015A623D7400][0000015A60D99640 49] iPadPro11, [0000015A62376F00][0000015A60D9D7C0 49] iPadPro2_11, [0000015A623D7900][0000015A60DA1940 49] iPadPro3_129, [0000015A62375700][0000015A60DA5AC0 49] iPadPro4_129, [0000015A623D5100][0000015A60DA80C0 49] AppleTV, [0000015A62376100][0000015A60DAC240 49] AppleTV4K, [0000015A623D5F00][0000015A60DB03C0 49] TVOS, [0000015A62377400][0000015A60DB4540 49] Mac, [0000015A623D7800][0000015A635A26C0 49] MacClient, [0000015A62375E00][0000015A635A6840 49] MacNoEditor, [0000015A623D7F00][0000015A635AA9C0 49] MacServer, [0000015A62375200][0000015A635AEB40 49] Linux, [0000015A623D4C00][0000015A635B2CC0 49] LinuxAArch64, [0000015A62375F00][0000015A635B6E40 49] LinuxNoEditor, [0000015A623D5B00][0000015A60D8CF80 49] LinuxAArch64NoEditor, [0000015A62377A00][0000015A635BB0C0 49] LinuxClient, [0000015A623D7500][0000015A635BF200 49] LinuxAArch64Client, [0000015A62375000][0000015A635C3340 49] LinuxServer, [0000015A623D6500][0000015A635CB4C0 49] LinuxAArch64Server, [0000015A62374A00][0000015A635CF640 49] Android, [0000015A623D7300][0000015A635D37C0 49] Android_Low, [0000015A62377500][0000015A635D7940 49] Android_Mid, [0000015A623D4600][0000015A635DBAC0 49] Android_High, [0000015A62374200][0000015A632D80C0 49] Android_Default, [0000015A623D7100][0000015A632DC240 49] Android_Adreno4xx, [0000015A62375100][0000015A632E03C0 49] Android_Adreno5xx_Low, [0000015A623B7600][0000015A632E4540 49] Android_Adreno5xx, [0000015A62441500][0000015A632E86C0 49] Android_Adreno6xx, [0000015A623B4F00][0000015A632EC840 49] Android_Adreno6xx_Vulkan, [0000015A62443C00][0000015A632F09C0 49] Android_Mali_T6xx, [0000015A623B5100][0000015A632F4B40 49] Android_Mali_T7xx, [0000015A62441600][0000015A632F8CC0 49] Android_Mali_T8xx, [0000015A623B5E00][0000015A632FCE40 49] Android_Mali_G71, [0000015A62440500][0000015A60CA4FC0 49] Android_Mali_G72, [0000015A623B4800][0000015A60DBB140 49] Android_Mali_G72_Vulkan, [0000015A62443A00][0000015A635C7280 49] Android_Mali_G76, [0000015A623B4100][0000015A60CA13C0 49] Android_Mali_G76_Vulkan, [0000015A62441F00][0000015A631AF500 49] Android_Mali_G77, [0000015A623B5000][0000015A5A843680 49] Android_Mali_G77_Vulkan, [0000015A62440A00][0000015A5A837800 49] Android_Mali_G78, [0000015A623B6C00][0000015A60C3F980 49] Android_Mali_G78_Vulkan, [0000015A62443600][0000015A60C43B00 49] Android_Mali_G710, [0000015A623B6B00][0000015A60C46100 49] Android_Mali_G710_Vulkan, [0000015A62443F00][0000015A60C4A280 49] Android_Vulkan_SM5, [0000015A623B7B00][0000015A60C4E400 49] Android_PowerVR_G6xxx, [0000015A62440100][0000015A60C52580 49] Android_PowerVR_GT7xxx, [0000015A623B6300][0000015A60C56700 49] Android_PowerVR_GE8xxx, [0000015A62440C00][0000015A60C5A880 49] Android_PowerVR_GM9xxx, [0000015A623B6700][0000015A60C5EA00 49] Android_PowerVR_GM9xxx_Vulkan, [0000015A62442700][0000015A60C62B80 49] Android_TegraK1, [0000015A623B4600][0000015A60CECD00 49] Android_Unknown_Vulkan, [0000015A62442D00][0000015A60CF0E80 49] Lumin, [0000015A623B4500][0000015A60CF5000 49] Lumin_Desktop, [0000015A62442500][0000015A60CF9180 49] HoloLens, 
+[2021.11.24-13.44.27:675][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.24-13.44.27:675][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.24-13.44.27:675][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.24-13.44.27:675][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.24-13.44.27:675][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.24-13.44.27:690][  0]LogNetVersion: UE4_FrogCircus 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2761004905)
+[2021.11.24-13.44.28:042][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.24-13.44.28:091][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.24-13.44.28:096][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.24-13.44.28:097][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.24-13.44.28:097][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.24-13.44.28:239][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E6371CB34A9FF977CC2EAA8B5D412633 | Instance: CF05957844C460ABDE23C382B3740844 (DESKTOP-MHGMKFL-13452).
+[2021.11.24-13.44.28:442][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.28:442][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.28:443][  0]LogPython: Using Python 3.7.7
+[2021.11.24-13.44.28:935][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.24-13.44.28:939][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.24-13.44.29:085][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.29:085][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.29:087][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.29:092][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.29:097][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.29:102][  0]LogUProjectInfo: Found projects:
+[2021.11.24-13.44.29:108][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.29:108][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.29:108][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.29:287][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.24-13.44.29:323][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.24-13.44.29:341][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-13.44.29:342][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.24-13.44.29:446][  0]LogCollectionManager: Loaded 0 collections in 0.001652 seconds
+[2021.11.24-13.44.29:467][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Collections/' took 0.00s
+[2021.11.24-13.44.29:467][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Developers/1/Collections/' took 0.00s
+[2021.11.24-13.44.29:467][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Collections/' took 0.00s
+[2021.11.24-13.44.29:467][  0]LogOcInput: OculusInput pre-init called
+[2021.11.24-13.44.29:626][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.29:626][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.29:701][  0]LogEngine: Initializing Engine...
+[2021.11.24-13.44.29:756][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.11.24-13.44.29:790][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2021.11.24-13.44.29:791][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2021.11.24-13.44.29:791][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2021.11.24-13.44.30:292][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2021.11.24-13.44.30:292][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.24-13.44.30:293][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.24-13.44.30:415][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.24-13.44.30:423][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.24-13.44.30:423][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.24-13.44.30:426][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.24-13.44.30:427][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.24-13.44.30:427][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.24-13.44.30:427][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.24-13.44.30:427][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.24-13.44.30:427][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.24-13.44.30:428][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.24-13.44.30:428][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.24-13.44.30:428][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.24-13.44.30:428][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.24-13.44.30:450][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-13.44.30:450][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-13.44.30:477][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2021.11.24-13.44.30:480][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.24-13.44.30:482][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.24-13.44.30:482][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.24-13.44.30:483][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.24-13.44.30:483][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.24-13.44.30:483][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.24-13.44.30:484][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.24-13.44.30:484][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.24-13.44.30:484][  0]LogInit: FAudioDevice initialized.
+[2021.11.24-13.44.30:484][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.24-13.44.30:484][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.24-13.44.30:567][  0]LogDerivedDataCache: Saved boot cache 0.08s 104MB C:/Users/1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.24-13.44.30:567][  0]LogInit: Texture streaming: Enabled
+[2021.11.24-13.44.30:578][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.24-13.44.30:583][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.24-13.44.30:583][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.24-13.44.30:596][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.24-13.44.30:634][  0]LogInit: Transaction tracking system initialized
+[2021.11.24-13.44.30:649][  0]BlueprintLog: New page: Editor Load
+[2021.11.24-13.44.30:697][  0]LocalizationService: Localization service is disabled
+[2021.11.24-13.44.30:717][  0]TimingProfiler: Initialize
+[2021.11.24-13.44.30:717][  0]TimingProfiler: OnSessionChanged
+[2021.11.24-13.44.30:717][  0]LoadingProfiler: Initialize
+[2021.11.24-13.44.30:717][  0]LoadingProfiler: OnSessionChanged
+[2021.11.24-13.44.30:717][  0]NetworkingProfiler: Initialize
+[2021.11.24-13.44.30:717][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.24-13.44.30:717][  0]MemoryProfiler: Initialize
+[2021.11.24-13.44.30:717][  0]MemoryProfiler: OnSessionChanged
+[2021.11.24-13.44.30:764][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.30:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.30:765][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.24-13.44.30:848][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.24-13.44.30:848][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.24-13.44.31:009][  0]LogFileCache: Scanning file cache for directory 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/' took 0.00s
+[2021.11.24-13.44.31:205][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.31:205][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.24-13.44.31:205][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.24-13.44.31:214][  0]SourceControl: Source control is disabled
+[2021.11.24-13.44.31:214][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.175
+[2021.11.24-13.44.31:214][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.24-13.44.31:214][  0]LightingResults: New page: Lighting Build
+[2021.11.24-13.44.31:216][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-13.44.31:216][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-13.44.31:216][  0]MapCheck: New page: Map Check
+[2021.11.24-13.44.31:216][  0]LightingResults: New page: Lighting Build
+[2021.11.24-13.44.31:223][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-13.44.31:226][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.24-13.44.31:269][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.11.24-13.44.31:273][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.11.24-13.44.31:274][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.11.24-13.44.31:279][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.24-13.44.31:286][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.11.24-13.44.31:286][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.24-13.44.31:286][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2021.11.24-13.44.31:286][  0]LogFileHelpers: Loading map 'Template_Default' took 0.072
+[2021.11.24-13.44.31:288][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.249
+[2021.11.24-13.44.31:418][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.44.31:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.44.31:429][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.44.31:435][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.24-13.44.31:453][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0086 seconds. Added 3822 classes and 928 folders.
+[2021.11.24-13.44.31:455][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.24-13.44.31:456][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-13.44.31:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-13.44.31:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.24-13.44.31:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.11.24-13.44.31:457][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-13.44.31:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-13.44.31:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.24-13.44.31:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.24-13.44.31:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.24-13.44.31:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:458][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-13.44.31:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:458][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.24-13.44.31:458][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-13.44.31:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.24-13.44.31:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-13.44.31:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.24-13.44.31:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-13.44.31:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:460][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.24-13.44.31:460][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:460][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-13.44.31:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.24-13.44.31:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.24-13.44.31:461][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-13.44.31:461][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:461][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-13.44.31:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:461][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.24-13.44.31:461][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.24-13.44.31:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.24-13.44.31:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.24-13.44.31:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.24-13.44.31:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.24-13.44.31:463][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-13.44.31:463][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:463][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-13.44.31:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:463][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.24-13.44.31:463][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-13.44.31:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.24-13.44.31:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:464][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-13.44.31:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:464][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.24-13.44.31:464][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.24-13.44.31:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.24-13.44.31:465][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-13.44.31:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.24-13.44.31:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.24-13.44.31:466][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.24-13.44.31:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.24-13.44.31:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.24-13.44.31:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-13.44.31:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.24-13.44.31:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:467][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-13.44.31:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:467][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.24-13.44.31:467][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-13.44.31:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.24-13.44.31:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:468][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.24-13.44.31:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:468][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.24-13.44.31:468][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.24-13.44.31:469][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.24-13.44.31:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.24-13.44.31:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.24-13.44.31:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.24-13.44.31:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.24-13.44.31:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:470][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.24-13.44.31:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:470][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.24-13.44.31:470][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.24-13.44.31:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.24-13.44.31:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.24-13.44.31:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.24-13.44.31:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.24-13.44.31:471][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.24-13.44.31:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.24-13.44.31:521][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.24-13.44.31:521][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.11.24-13.44.31:538][  0]LogSlate: The tab "ComposureLayers" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2021.11.24-13.44.31:832][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.24-13.44.31:906][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.24-13.44.31:908][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.24-13.44.31:908][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.24-13.44.31:992][  0]LogRenderer: Reallocating scene render targets to support 1112x656 Format 10 NumSamples 1 (Frame:1).
+[2021.11.24-13.44.32:068][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.24-13.44.32:069][  0]LogLoad: (Engine Initialization) Total time: 14.03 seconds
+[2021.11.24-13.44.32:069][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.24-13.44.32:116][  0]LogAssetRegistry: Asset discovery search completed in 4.7767 seconds
+[2021.11.24-13.44.32:121][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.24-13.44.32:123][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.24-14.01.33:445][876]LogContentBrowser: Attempting asset rename: Textures_FortuneTellerTrailer -> Textures_FortuneTellerTrailer
+[2021.11.24-14.02.04:778][274]LogContentBrowser: Attempting asset rename: Textures_MainArea -> Materials_MainArea
+[2021.11.24-14.02.05:280][274]LogSlate: Took 0.001087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-14.02.06:220][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_Ropes_BaseColour_Mat17F3C36E4C3D18543A18B99BAD763285.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/BigTop_Ropes_BaseColour_Mat.uasset'
+[2021.11.24-14.02.06:257][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_BigTopTent7C5E1B9E4EEA1BC1AB8BA7AF13BF4D1B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/m_BigTopTent.uasset'
+[2021.11.24-14.02.06:260][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_BigTopTent73EB75614A60175E14684083E16F9CFC.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Textures_MainArea/m_BigTopTent.uasset'
+[2021.11.24-14.02.06:280][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_BigTop_Ropes2393FE7B4E898A5AE28DCE8F25475DC2.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/m_BigTop_Ropes.uasset'
+[2021.11.24-14.02.06:283][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_BigTop_RopesB100E6E144A74C429B060DB6F2BA65B6.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Textures_MainArea/m_BigTop_Ropes.uasset'
+[2021.11.24-14.02.06:332][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_FortuneTellerTrailerCB53BF4E4843855040C88AB185B8D9D5.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/m_FortuneTellerTrailer.uasset'
+[2021.11.24-14.02.06:335][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_FortuneTellerTrailerEFC15379492E8ADBFCC921996D078851.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Textures_MainArea/m_FortuneTellerTrailer.uasset'
+[2021.11.24-14.02.06:378][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Leaves_013E68F61B410AD4FC4A561E92672E8708.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/m_Leaves_01.uasset'
+[2021.11.24-14.02.06:380][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Leaves_01C95F840D44545D303BB0E3A49FB2CAAA.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Textures_MainArea/m_Leaves_01.uasset'
+[2021.11.24-14.02.06:407][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree01_AO940A27A74704905EA31E03B47D642DEC.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Tree01_AO.uasset'
+[2021.11.24-14.02.06:444][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree01_NormalA65A5405469F9BDD0E645F9659BDDA92.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Tree01_Normal.uasset'
+[2021.11.24-14.02.06:472][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree_01_DefaultMaterial_BaseColoDD658553478A69D07A77FDB1BE39132E.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor.uasset'
+[2021.11.24-14.02.06:494][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree_01_DefaultMaterial_BaseColo4A9F9ECC4FCC5D25D07633AAF5A26077.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.uasset'
+[2021.11.24-14.02.06:497][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree_01_DefaultMaterial_BaseColoA5BB350340690E6BC76DC19A57487D28.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Textures_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.uasset'
+[2021.11.24-14.02.06:571][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_AOFA7D1171451EB9D828D9A9B524DBC390.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/BigTop_AO.uasset'
+[2021.11.24-14.02.06:633][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_BaseColourD509A68C406C17DF6931458803F05ED9.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/BigTop_BaseColour.uasset'
+[2021.11.24-14.02.06:697][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_Height5DAB823245E725FDC4E937B758A79EC9.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/BigTop_Height.uasset'
+[2021.11.24-14.02.06:739][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_Ropes_BaseColour230D320E4213288EFEE4CDAAE65AC1C5.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/BigTop_Ropes_BaseColour.uasset'
+[2021.11.24-14.02.06:760][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_Roughness70D37450443EC9F1E041CCAD08150D64.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/BigTop_Roughness.uasset'
+[2021.11.24-14.02.06:788][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_AO4115770746DD9367DE7F6F87ADAD5067.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/FTT_AO.uasset'
+[2021.11.24-14.02.06:826][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_BaseColourF5DAE67E4753877F8EDE219854CE264B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/FTT_BaseColour.uasset'
+[2021.11.24-14.02.06:879][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_Normal39549153431A617E66417CA3874CCD06.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/FTT_Normal.uasset'
+[2021.11.24-14.02.06:897][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Leaves_0177BF1C5A4996AACF4EDAA8959E7FD854.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/Leaves_01.uasset'
+[2021.11.24-14.02.06:995][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.24-14.02.07:001][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:005][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.07:009][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:013][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:018][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:022][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:026][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:031][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:035][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:039][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:043][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:047][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:060][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.24-14.02.07:064][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.07:177][274]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BigTop_Ropes_BaseColour_Mat6A964BB943B8D0D3B16FF986F6F283F2.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_MainArea/BigTop_Ropes_BaseColour_Mat.uasset'
+[2021.11.24-14.02.07:218][274]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-14.02.07:218][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/BigTop_Ropes_BaseColour.BigTop_Ropes_BaseColour
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/m_BigTop_Ropes.m_BigTop_Ropes
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Materials_MainArea/BigTop_Ropes_BaseColour_Mat.BigTop_Ropes_BaseColour_Mat
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/BigTop_AO.BigTop_AO
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/BigTop_BaseColour.BigTop_BaseColour
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/BigTop_Height.BigTop_Height
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/BigTop_Roughness.BigTop_Roughness
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/m_BigTopTent.m_BigTopTent
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/FTT_AO.FTT_AO
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/FTT_BaseColour.FTT_BaseColour
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/FTT_Normal.FTT_Normal
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/m_FortuneTellerTrailer.m_FortuneTellerTrailer
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/Leaves_01.Leaves_01
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/m_Leaves_01.m_Leaves_01
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Tree01_AO.Tree01_AO
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Tree01_Normal.Tree01_Normal
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor.Tree_01_DefaultMaterial_BaseColor
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.Tree_01_DefaultMaterial_BaseColor_Mat
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_MainArea/BigTop_Ropes_BaseColour_Mat.BigTop_Ropes_BaseColour_Mat
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Textures_MainArea/m_BigTopTent.m_BigTopTent
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Textures_MainArea/m_BigTop_Ropes.m_BigTop_Ropes
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Textures_MainArea/m_FortuneTellerTrailer.m_FortuneTellerTrailer
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Textures_MainArea/m_Leaves_01.m_Leaves_01
+[2021.11.24-14.02.07:219][274]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/Textures_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.Tree_01_DefaultMaterial_BaseColor_Mat
+[2021.11.24-14.02.23:934][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.24-14.02.24:110][219]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.24-14.02.27:301][219]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.24-14.02.31:738][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.24-14.02.32:734][499]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.24-14.02.32:743][499]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Materials/Textures_MainArea/m_BigTopTent.m_BigTopTent
+	Asset Name: /Game/Materials/Textures_MainArea/m_BigTop_Ropes.m_BigTop_Ropes
+	Asset Name: /Game/Materials/Textures_MainArea/m_FortuneTellerTrailer.m_FortuneTellerTrailer
+	Asset Name: /Game/Materials/Textures_MainArea/m_Leaves_01.m_Leaves_01
+	Asset Name: /Game/Materials/Textures_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.Tree_01_DefaultMaterial_BaseColor_Mat
+[2021.11.24-14.02.33:268][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.11.24-14.02.33:274][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.33:278][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.33:282][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.33:286][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.33:290][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.24-14.02.33:294][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.38:843][788]LogContentBrowser: Attempting asset rename: Textures_BigTop -> Materials_BigTop
+[2021.11.24-14.02.39:370][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Ground_InstBF854B3C434529499A0A438DFC007EE3.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/mi_Ground_Inst.uasset'
+[2021.11.24-14.02.39:387][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Lights_Inst23F4C1CF402F697FFAFF84ABA57CD073.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/mi_Lights_Inst.uasset'
+[2021.11.24-14.02.39:406][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Seats_InstBC8BB2114EE352DC728C5C9A37A471E4.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/mi_Seats_Inst.uasset'
+[2021.11.24-14.02.39:425][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_TentStructure_Inst31D09C824A5AF1B408FCC59A4DADF81B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/mi_TentStructure_Inst.uasset'
+[2021.11.24-14.02.39:436][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_BigTop/m_Ground" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Ground.uasset" SILENT=true
+[2021.11.24-14.02.39:444][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_GroundD1208A274FE6020342972BB6C675A6EB.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Ground.uasset'
+[2021.11.24-14.02.39:463][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_LightRopeA24028964F463DCB9FA0A58D0CDA12CD.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_LightRope.uasset'
+[2021.11.24-14.02.39:474][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_BigTop/m_Lights" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Lights.uasset" SILENT=true
+[2021.11.24-14.02.39:483][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Lights2FB3A5F54CE2BF187D1876A9035B6C42.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Lights.uasset'
+[2021.11.24-14.02.39:493][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_BigTop/m_Seats" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Seats.uasset" SILENT=true
+[2021.11.24-14.02.39:501][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Seats13C3211E417326C6A3F20C82BE0AC26B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Seats.uasset'
+[2021.11.24-14.02.39:512][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_BigTop/m_Stage" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Stage.uasset" SILENT=true
+[2021.11.24-14.02.39:520][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Stage3BE35C8C42955DE6D28C2E94E0C9F7BF.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_Stage.uasset'
+[2021.11.24-14.02.39:531][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Materials_BigTop/m_StageRed" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_StageRed.uasset" SILENT=true
+[2021.11.24-14.02.39:539][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_StageRed5D0999ED44D2073BF96438AA28A922F2.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_StageRed.uasset'
+[2021.11.24-14.02.39:558][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_TentStructure0C07C1314DBBEF84440B399BFAA710AF.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/m_TentStructure.uasset'
+[2021.11.24-14.02.39:577][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tent_BaseColour_MatA758ECFA44398914EC1D2C911D175391.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/Tent_BaseColour_Mat.uasset'
+[2021.11.24-14.02.39:599][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Seats_BaseColour82AAF01640F24CF642E244B147C7FD60.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/t_Seats/Seats_BaseColour.uasset'
+[2021.11.24-14.02.39:608][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tent_BaseColourAC55F94A47B4E7B2E9D29ABDAB16C15E.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/t_Tent/Tent_BaseColour.uasset'
+[2021.11.24-14.02.39:637][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/TentStructure_BaseColour54CDCBB94D4877EC980C6CA5742E2C7D.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_BigTop/t_TentStructure/TentStructure_BaseColour.uasset'
+[2021.11.24-14.02.39:737][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.39:742][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:746][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.39:751][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:755][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:759][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:764][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.39:768][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:772][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:776][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:781][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.39:785][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:789][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.39:794][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:799][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.39:811][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.24-14.02.39:815][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.39:852][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Ground_InstFA7F8DA94CD18A008EAA65B1DA869561.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/mi_Ground_Inst.uasset'
+[2021.11.24-14.02.39:855][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Lights_Inst01A534B64A7BFC7E8A0A159AD7B2F1E9.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/mi_Lights_Inst.uasset'
+[2021.11.24-14.02.39:857][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_Seats_Inst57C3C48C4BF7F01A6B3B6491FC3A0631.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/mi_Seats_Inst.uasset'
+[2021.11.24-14.02.39:860][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_TentStructure_Inst8CAA3E504686EF082CE17FB6E6872A91.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/mi_TentStructure_Inst.uasset'
+[2021.11.24-14.02.39:861][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Textures_BigTop/m_LightRope" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/m_LightRope.uasset" SILENT=true
+[2021.11.24-14.02.39:863][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_LightRopeC9677C444341CD301C8A558F6EEBB458.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/m_LightRope.uasset'
+[2021.11.24-14.02.39:865][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Textures_BigTop/m_Stage" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/m_Stage.uasset" SILENT=true
+[2021.11.24-14.02.39:867][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_StageA9AFFAE943430E59AD2A9D8FEF8CE0B8.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/m_Stage.uasset'
+[2021.11.24-14.02.39:870][788]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tent_BaseColour_Mat314DBA404CEF08DFFED25E99A0F34DDE.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_BigTop/Tent_BaseColour_Mat.uasset'
+[2021.11.24-14.02.39:905][788]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_StageRed.m_StageRed
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_BigTop/t_TentStructure/TentStructure_BaseColour.TentStructure_BaseColour
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_BigTop/mi_Ground_Inst.mi_Ground_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_Seats.m_Seats
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_BigTop/mi_Seats_Inst.mi_Seats_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_BigTop/t_Seats/Seats_BaseColour.Seats_BaseColour
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_Ground.m_Ground
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_BigTop/mi_Lights_Inst.mi_Lights_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_Lights.m_Lights
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_Stage.m_Stage
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_LightRope.m_LightRope
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_BigTop/mi_TentStructure_Inst.mi_TentStructure_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/m_TentStructure.m_TentStructure
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_BigTop/t_Tent/Tent_BaseColour.Tent_BaseColour
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating Material /Game/Materials/Materials_BigTop/Tent_BaseColour_Mat.Tent_BaseColour_Mat
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/mi_Ground_Inst.mi_Ground_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/mi_Lights_Inst.mi_Lights_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/mi_Seats_Inst.mi_Seats_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/mi_TentStructure_Inst.mi_TentStructure_Inst
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/m_LightRope.m_LightRope
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/m_Stage.m_Stage
+[2021.11.24-14.02.39:905][788]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_BigTop/Tent_BaseColour_Mat.Tent_BaseColour_Mat
+[2021.11.24-14.02.44:759][ 45]LogContentBrowser: Attempting asset rename: Textures_FortuneTellerTrailer -> Materials_FortuneTellerTrailer
+[2021.11.24-14.02.47:636][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_GreenC500A0DD475BEBC368D33A9BED8A91D4.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/Cushion_Green.uasset'
+[2021.11.24-14.02.47:656][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_Pink78A8D73442777C63F5F5BCBC24A3E6C3.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/Cushion_Pink.uasset'
+[2021.11.24-14.02.47:675][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_Purple4B6569D341AD8C721FA0C7A366AA68DA.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/Cushion_Purple.uasset'
+[2021.11.24-14.02.47:694][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_RedC8295ADD48B58C36C51A7A8B7694B69F.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/Cushion_Red.uasset'
+[2021.11.24-14.02.47:714][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_Yellow438A29214910BAF50FB283AA24206326.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/Cushion_Yellow.uasset'
+[2021.11.24-14.02.47:734][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_FTTWalls_InstC42057794998EED3C5BF2CBCB9DF5AB3.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/mi_FTTWalls_Inst.uasset'
+[2021.11.24-14.02.47:753][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_MirrorsGold_Inst7FC0EC204A4C1745C1A409B39B5F080A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/mi_MirrorsGold_Inst.uasset'
+[2021.11.24-14.02.47:771][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Bookcase_Small3ED9955F4F4AECB9F793A7A67DC640C7.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_Bookcase_Small.uasset'
+[2021.11.24-14.02.47:791][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Bookshelf_Big2634190254D4BB3DC7990A69D3DF1C693.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_Bookshelf_Big2.uasset'
+[2021.11.24-14.02.47:811][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Chair99F928014F872368E7E6C9BBCA09A495.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_Chair.uasset'
+[2021.11.24-14.02.47:832][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_FTTWallsA194FC9246385F250B84D2BDBA4A074E.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_FTTWalls.uasset'
+[2021.11.24-14.02.47:853][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_InteriorWalls_Bed46FF3C634A9E0D5C8B72EB8F6C699116.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_InteriorWalls_Bed.uasset'
+[2021.11.24-14.02.47:874][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Mirrors12753A7A4C0A9E3B054B5995B516F256.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_Mirrors.uasset'
+[2021.11.24-14.02.47:893][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_TableLegs446C76B44E4BA4893A1CA88C960C4158.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_TableLegs.uasset'
+[2021.11.24-14.02.47:915][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_WoodBurningStove57004184455284983577749914C9D07F.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_WoodBurningStove.uasset'
+[2021.11.24-14.02.47:935][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_WoodBurningStove_Inst8BB92E684FA0B95B416BBDAA70199D83.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/m_WoodBurningStove_Inst.uasset'
+[2021.11.24-14.02.47:949][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/SmallBookcase_BC708376774FDD4DC649F9338874013C64.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/SmallBookcase_BC.uasset'
+[2021.11.24-14.02.47:970][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_019E2EF88E4E038B11117117A2580F979B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Book_01.uasset'
+[2021.11.24-14.02.47:990][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_0259E3D05F4102A41E24B929BD81E9329F.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Book_02.uasset'
+[2021.11.24-14.02.48:010][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_03A0A9CA3F48D35BEA91602EA20502F9AE.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Book_03.uasset'
+[2021.11.24-14.02.48:031][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_04CB9AA61D40684E7A686579BEB09BB3A5.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Book_04.uasset'
+[2021.11.24-14.02.48:051][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_052D46D9AC49BEECBF57925FBE5C4DF44A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Book_05.uasset'
+[2021.11.24-14.02.48:092][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookTexture_0169DC6FAF4478162535AEB4A32FE9BAB7.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_01.uasset'
+[2021.11.24-14.02.48:115][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookTexture_0257DB51B34BE7E98A97BF2DB56DA31D4A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_02.uasset'
+[2021.11.24-14.02.48:141][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookTexture_036FF1AE7F468F0D96A8049E8600020B59.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_03.uasset'
+[2021.11.24-14.02.48:166][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookTexture_045AA7DA0D455C9BEBE946D0B62D8219C1.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_04.uasset'
+[2021.11.24-14.02.48:191][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookTexture_050DE5FD5549E85AFF98792BACE1C0D479.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_05.uasset'
+[2021.11.24-14.02.48:296][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WoodBurningStove_AO3750674142FF58C957752C985042536B.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_AO.uasset'
+[2021.11.24-14.02.48:316][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WoodBurningStove_BaseColour555400914E546F7EA931D9B24F4A92A0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_BaseColour.uasset'
+[2021.11.24-14.02.48:332][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WoodBurningStove_Metallic504C671F4CDEC9B715B90F929414B9F9.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_Metallic.uasset'
+[2021.11.24-14.02.48:347][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WoodBurningStove_Roughness13A1B92C41033BD5FE63B3AEF31D9644.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_Roughness.uasset'
+[2021.11.24-14.02.48:363][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookShelf_AO93D0AFD54C01DCCD8CB59BA1ABF749E6.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_AO.uasset'
+[2021.11.24-14.02.48:379][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookShelf_BaseColour097EDBEB46C4161E1B6818AF5D0DC988.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BaseColour.uasset'
+[2021.11.24-14.02.48:398][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookShelf_BC_023929E34A4109C3F3C925BAA238A88C6F.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BC_02.uasset'
+[2021.11.24-14.02.48:416][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookShelf_BC_03116725224433438832A315A711614B91.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BC_03.uasset'
+[2021.11.24-14.02.48:436][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/BookShelf_Normal8E828F1047E6968406BD01AEEB20B7F0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_Normal.uasset'
+[2021.11.24-14.02.48:448][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Chair_AO8D93D3C04164AC12782684B02483B28D.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_AO.uasset'
+[2021.11.24-14.02.48:463][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Chair_BaseColour9B66E8C0434C8FDB6C62DABDA33BBD84.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_BaseColour.uasset'
+[2021.11.24-14.02.48:479][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Chair_Normal+02F9BAE8AB4FA9741F1EB727AC9961DC6F.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_Normal+02.uasset'
+[2021.11.24-14.02.48:495][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Chair_Normal4E1120D9470E852BD7BC959F2EBFF264.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_Normal.uasset'
+[2021.11.24-14.02.48:510][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Texture_Trellis_01B842461C4771D1F7788206BFA9773529.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_01.uasset'
+[2021.11.24-14.02.48:524][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Texture_Trellis_02FF3131CF4FD654CCC4D783B7390DD625.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_02.uasset'
+[2021.11.24-14.02.48:536][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Texture_Trellis_032CED483A4DCF7F164E7B81B33F78431A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_03.uasset'
+[2021.11.24-14.02.48:549][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Texture_Trellis_04ADFDA1334E8244275603CBB8AEA81C23.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_04.uasset'
+[2021.11.24-14.02.48:562][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Texture_Trellis_05CAF8D3E64AE0BD01D4CD98A91675B2E7.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_05.uasset'
+[2021.11.24-14.02.48:593][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_InteriorWalls_ACD1CCDFD04727ECC1A568DC8A01934FF0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_AC.uasset'
+[2021.11.24-14.02.48:626][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_InteriorWalls_BaseColour855B86AA485C68153455118B377243C0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_BaseColour.uasset'
+[2021.11.24-14.02.48:643][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/FTT_InteriorWalls_Normals1E20FC75464DCF136627379E8FD45D28.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_Normals.uasset'
+[2021.11.24-14.02.48:671][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_AO02E5733E4D2EABB84DC7B9A5DD9B6E85.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_AO.uasset'
+[2021.11.24-14.02.48:696][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_BaseColourD9D8D3574292A9DDDD9289A7D698BD2E.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_BaseColour.uasset'
+[2021.11.24-14.02.48:708][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_Height106D59104CE24C16B09CE48D9E570C79.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Height.uasset'
+[2021.11.24-14.02.48:718][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_MetallicACAAEE554AEE36E630699EBE46E5B1C8.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Metallic.uasset'
+[2021.11.24-14.02.48:732][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_NormalAndHeight83BBD1D84583D3F39BCF9696A51BCC41.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_NormalAndHeight.uasset'
+[2021.11.24-14.02.48:749][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_NormalBaseCE19C21B4C690EC734FD82B657AA0DAC.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_NormalBase.uasset'
+[2021.11.24-14.02.48:762][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/WallStructure_Roughness4CBE90D543A3AB346F3840BA214A45D9.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Roughness.uasset'
+[2021.11.24-14.02.48:788][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Mirrors_BC6C44630C466463FFC684778F07977318.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_BC.uasset'
+[2021.11.24-14.02.48:808][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Mirrors_metallic352AA28F4BE3AFB2BC5E2AA9A3F9C904.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_metallic.uasset'
+[2021.11.24-14.02.48:827][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Mirrors_NormalAndHeight9A57A5ED43892A68C6D9D5A8C193F015.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_NormalAndHeight.uasset'
+[2021.11.24-14.02.48:847][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Mirrors_Roughness301F15D84563FAB3B5EF35B58261DDAA.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_Roughness.uasset'
+[2021.11.24-14.02.48:862][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Table_AO6C78C6814363827F6D6617A16166B960.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_AO.uasset'
+[2021.11.24-14.02.48:878][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Table_BaseColour8770212E4B3EE3C48E0797B6F0548E46.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_BaseColour.uasset'
+[2021.11.24-14.02.48:897][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Table_Normal693E24E5473E9CF24FF9D3912CCC4FEC.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_Normal.uasset'
+[2021.11.24-14.02.49:128][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:132][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:137][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.24-14.02.49:141][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.49:145][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:149][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:153][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.24-14.02.49:157][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:161][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:166][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:170][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.24-14.02.49:174][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:178][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:182][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:187][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.24-14.02.49:191][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:195][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:199][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:203][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:207][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:211][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:216][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:220][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.49:224][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:228][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:232][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:236][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.49:240][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:244][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:248][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:252][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:256][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:260][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:264][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:269][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:273][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.24-14.02.49:277][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:281][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.24-14.02.49:285][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:289][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:293][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:297][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:301][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:305][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:309][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:313][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:317][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:321][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:325][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:333][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:337][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:341][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:345][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.49:349][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:353][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.24-14.02.49:357][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:361][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:365][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:369][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.02.49:374][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:378][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.02.49:382][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:390][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.24-14.02.49:394][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.02.49:443][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_Green5B93329F4103C2E7BCBA97A9C531978A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/Cushion_Green.uasset'
+[2021.11.24-14.02.49:446][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_PinkA7D79D3448CDDF5CBFE198BB247BA2C3.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/Cushion_Pink.uasset'
+[2021.11.24-14.02.49:449][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_PurpleB940B72A4C6EB1A6289E63BD5C73F148.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/Cushion_Purple.uasset'
+[2021.11.24-14.02.49:452][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_RedA53C6BF349D0BB871ACFC488B3FA0157.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/Cushion_Red.uasset'
+[2021.11.24-14.02.49:455][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Cushion_Yellow684E605C44E59B6EEEAE8AAD8C4A035D.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/Cushion_Yellow.uasset'
+[2021.11.24-14.02.49:457][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/mi_FTTWalls_Inst" FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/mi_FTTWalls_Inst.uasset" SILENT=true
+[2021.11.24-14.02.49:458][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_FTTWalls_InstF85654B9462A1B20A6FC66B02F619831.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/mi_FTTWalls_Inst.uasset'
+[2021.11.24-14.02.49:461][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_FTTWalls_InstA48E88AC4113C5FA0A0919B00CC25C05.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/mi_FTTWalls_Inst.uasset'
+[2021.11.24-14.02.49:464][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/mi_MirrorsGold_Inst79F2BF0D4526761C4C81C9A24EE357CA.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/mi_MirrorsGold_Inst.uasset'
+[2021.11.24-14.02.49:467][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Bookcase_Small5665893E488E89E715454D9EA4207C97.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_Bookcase_Small.uasset'
+[2021.11.24-14.02.49:470][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Bookshelf_Big248FC0B964A58C7B13FF6C0A59F748DD0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_Bookshelf_Big2.uasset'
+[2021.11.24-14.02.49:472][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_Chair0E5A95454E070C0CE685D38CA74DFE2A.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_Chair.uasset'
+[2021.11.24-14.02.49:475][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_InteriorWalls_BedFD9093624D6205D342FDE98FF5EC6634.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_InteriorWalls_Bed.uasset'
+[2021.11.24-14.02.49:478][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_TableLegs81DE71884ABD49F409A041A7D1646E33.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_TableLegs.uasset'
+[2021.11.24-14.02.49:481][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/m_WoodBurningStove_Inst166450F84F2D9BEF605AFABD53D78DD1.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/m_WoodBurningStove_Inst.uasset'
+[2021.11.24-14.02.49:483][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_013109046443C85027F282CE8315C0B9E0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/t_Book_01.uasset'
+[2021.11.24-14.02.49:486][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_023E9B1E7A414C9E48610BB3ACC92A8576.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/t_Book_02.uasset'
+[2021.11.24-14.02.49:489][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_03E18500444B198ED420FB6A87DA177441.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/t_Book_03.uasset'
+[2021.11.24-14.02.49:492][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_040B8C1ED74A51E4E7E8FF8DAE2DF0C7DD.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/t_Book_04.uasset'
+[2021.11.24-14.02.49:495][ 45]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/t_Book_05FA47E9BC4EF046868A728288E17256BE.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Textures/Textures_FortuneTellerTrailer/t_Book_05.uasset'
+[2021.11.24-14.02.49:539][ 45]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/Cushion_Purple.Cushion_Purple
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_02.Texture_Trellis_02
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/Cushion_Pink.Cushion_Pink
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_01.Texture_Trellis_01
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_04.Texture_Trellis_04
+[2021.11.24-14.02.49:539][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/Cushion_Green.Cushion_Green
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/Cushion_Red.Cushion_Red
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_03.Texture_Trellis_03
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Cushions/Texture_Trellis_05.Texture_Trellis_05
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/Cushion_Yellow.Cushion_Yellow
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_AC.FTT_InteriorWalls_AC
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_BaseColour.FTT_InteriorWalls_BaseColour
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTTInteriorWalls/FTT_InteriorWalls_Normals.FTT_InteriorWalls_Normals
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_FTTWalls.m_FTTWalls
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_FortuneTellerTrailer/mi_FTTWalls_Inst.mi_FTTWalls_Inst
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_BC.Mirrors_BC
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_metallic.Mirrors_metallic
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_NormalAndHeight.Mirrors_NormalAndHeight
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Mirrors/Mirrors_Roughness.Mirrors_Roughness
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_Mirrors.m_Mirrors
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_FortuneTellerTrailer/mi_MirrorsGold_Inst.mi_MirrorsGold_Inst
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/SmallBookcase_BC.SmallBookcase_BC
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_Bookcase_Small.m_Bookcase_Small
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_AO.BookShelf_AO
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BC_03.BookShelf_BC_03
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_Normal.BookShelf_Normal
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_Bookshelf_Big2.m_Bookshelf_Big2
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_BaseColour.Chair_BaseColour
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_Normal+02.Chair_Normal+02
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_Chair.m_Chair
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_AO.WallStructure_AO
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_BaseColour.WallStructure_BaseColour
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Height.WallStructure_Height
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Metallic.WallStructure_Metallic
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_NormalAndHeight.WallStructure_NormalAndHeight
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_NormalBase.WallStructure_NormalBase
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_FTT_Bed/WallStructure_Roughness.WallStructure_Roughness
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_InteriorWalls_Bed.m_InteriorWalls_Bed
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_AO.Table_AO
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_BaseColour.Table_BaseColour
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_TableLegs/Table_Normal.Table_Normal
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_TableLegs.m_TableLegs
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_AO.WoodBurningStove_AO
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_BaseColour.WoodBurningStove_BaseColour
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/m_WoodBurningStove.m_WoodBurningStove
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/Materials_FortuneTellerTrailer/m_WoodBurningStove_Inst.m_WoodBurningStove_Inst
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_01.BookTexture_01
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/t_Book_01.t_Book_01
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_02.BookTexture_02
+[2021.11.24-14.02.49:540][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/t_Book_02.t_Book_02
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_03.BookTexture_03
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/t_Book_03.t_Book_03
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_04.BookTexture_04
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/t_Book_04.t_Book_04
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/BookTexture_05.BookTexture_05
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Material /Game/Materials/Materials_FortuneTellerTrailer/t_Book_05.t_Book_05
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_Metallic.WoodBurningStove_Metallic
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Books/t_WoodBurningStove/WoodBurningStove_Roughness.WoodBurningStove_Roughness
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BaseColour.BookShelf_BaseColour
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Bookshelf_Big/BookShelf_BC_02.BookShelf_BC_02
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_AO.Chair_AO
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_FortuneTellerTrailer/t_Chair/Chair_Normal.Chair_Normal
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/Cushion_Green.Cushion_Green
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/Cushion_Pink.Cushion_Pink
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/Cushion_Purple.Cushion_Purple
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/Cushion_Red.Cushion_Red
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/Cushion_Yellow.Cushion_Yellow
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Materials/mi_FTTWalls_Inst.mi_FTTWalls_Inst
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/mi_FTTWalls_Inst.mi_FTTWalls_Inst
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/mi_MirrorsGold_Inst.mi_MirrorsGold_Inst
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_Bookcase_Small.m_Bookcase_Small
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_Bookshelf_Big2.m_Bookshelf_Big2
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_Chair.m_Chair
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_InteriorWalls_Bed.m_InteriorWalls_Bed
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_TableLegs.m_TableLegs
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/m_WoodBurningStove_Inst.m_WoodBurningStove_Inst
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/t_Book_01.t_Book_01
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/t_Book_02.t_Book_02
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/t_Book_03.t_Book_03
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/t_Book_04.t_Book_04
+[2021.11.24-14.02.49:541][ 45]LogContentValidation: Display: Validating ObjectRedirector /Game/Textures/Textures_FortuneTellerTrailer/t_Book_05.t_Book_05
+[2021.11.24-14.03.22:941][646]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree_01_DefaultMaterial_BaseColo6493650D407E566CD4232F9D297B47A0.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/Tree_01_DefaultMaterial_BaseColor.uasset'
+[2021.11.24-14.03.22:966][646]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree01_AO1012835649BA1DB139EFE2809D65E661.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/Tree01_AO.uasset'
+[2021.11.24-14.03.23:002][646]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree01_NormalBDCA2CA644B3134B311558BC92889D85.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Textures/Tree01_Normal.uasset'
+[2021.11.24-14.03.23:056][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.24-14.03.23:061][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.24-14.03.23:065][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-14.03.23:078][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.24-14.03.23:083][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.24-14.03.23:108][646]LogSavePackage: Moving 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Saved/Tree_01_DefaultMaterial_BaseColo32BAEF0247A5A91EF5AC1F8921A27F10.tmp' to 'E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.uasset'
+[2021.11.24-14.03.23:141][646]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-14.03.23:141][646]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/Tree01_AO.Tree01_AO
+[2021.11.24-14.03.23:141][646]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/Tree01_Normal.Tree01_Normal
+[2021.11.24-14.03.23:141][646]LogContentValidation: Display: Validating Texture2D /Game/Materials/Materials_MainArea/Textures/Tree_01_DefaultMaterial_BaseColor.Tree_01_DefaultMaterial_BaseColor
+[2021.11.24-14.03.23:141][646]LogContentValidation: Display: Validating Material /Game/Materials/Materials_MainArea/Tree_01_DefaultMaterial_BaseColor_Mat.Tree_01_DefaultMaterial_BaseColor_Mat
+[2021.11.24-14.58.37:581][897]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{215ab3b8-acc8-4c05-b81f-5c9bd6495ef5}.
+[2021.11.24-14.58.37:581][897]LogAudioMixer: Resetting audio stream to device id 
+[2021.11.24-14.58.37:603][897]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.24-14.58.37:603][897]LogAudioMixer: Display: 1: FrontRight
+[2021.11.24-15.03.14:057][913]LogUObjectHash: Compacting FUObjectHashTables data took  22.93ms
+[2021.11.24-15.03.15:029][913]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/BigTop.BigTop
+[2021.11.24-15.03.15:040][913]Cmd: MAP LOAD FILE="E:/Uni/Year 2/Multidiciplinary Production/UE4_FrogCircus/Content/Levels/BigTop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.24-15.03.15:041][913]LightingResults: New page: Lighting Build
+[2021.11.24-15.03.15:044][913]LoadErrors: New page: Loading map: BigTop.umap
+[2021.11.24-15.03.15:082][913]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-15.03.15:084][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-15.03.15:085][913]MapCheck: New page: Map Check
+[2021.11.24-15.03.15:085][913]LightingResults: New page: Lighting Build
+[2021.11.24-15.03.15:091][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.24-15.03.15:109][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.11.24-15.03.15:111][913]LogAudio: Display: Audio Device (ID: 1) registered with world 'BigTop'.
+[2021.11.24-15.03.15:118][913]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.24-15.03.15:118][913]LogAIModule: Creating AISystem for world BigTop
+[2021.11.24-15.03.15:126][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.24-15.03.15:136][913]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.24-15.03.15:136][913]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.11.24-15.03.15:136][913]LogFileHelpers: Loading map 'BigTop' took 0.108
+[2021.11.24-15.36.17:715][786]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.24-15.36.17:962][786]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.11.24-15.36.17:994][786]LogObjectTools: Deleting 1 worlds: /Game/TESTS/TEST_Pickupobject/Levels/01_TESTLEVEL.01_TESTLEVEL
+[2021.11.24-15.36.17:994][786]LogObjectTools: Currently 2 active worlds: /Game/Levels/BigTop.BigTop, /Engine/Transient.World_0
+[2021.11.24-15.36.18:000][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.24-15.36.20:582][786]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.24-15.36.20:600][786]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/TESTS/VR_Test.Default__VR_Test_C
+	Asset Name: /Game/TESTS/VR_Test.VR_Test
+	Asset Name: /Game/TESTS/VR_Test.VR_Test_C
+	Asset Name: /Game/TESTS/TEST_Pickupobject/PickUpCube.Default__PickUpCube_C
+	Asset Name: /Game/TESTS/TEST_Pickupobject/PickUpCube.PickUpCube
+	Asset Name: /Game/TESTS/TEST_Pickupobject/PickUpCube.PickUpCube_C
+	Asset Name: /Game/TESTS/TEST_Pickupobject/Levels/01_TESTLEVEL.01_TESTLEVEL
+	Asset Name: /Game/TESTS/TEST_Pickupobject/Test_PickUpObject_01/01_TESTLEVEL_BuiltData.01_TESTLEVEL_BuiltData
+	Asset Name: /Game/TESTS/TEST_Pickupobject/Test_PickUpObject_01/PickUpCube.PickUpCube
+	Asset Name: /Game/TESTS/TEST_Pickupobject/Test_PickUpObject_01/PickUpObject.PickUpObject
+[2021.11.24-15.36.20:918][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.24-15.36.20:936][786]LogWorld: UWorld::CleanupWorld for 01_TESTLEVEL, bSessionEnded=true, bCleanupResources=true
+[2021.11.24-15.36.20:937][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.24-15.36.25:484][786]LogSlate: Window 'Message' being destroyed
+[2021.11.24-15.36.25:489][786]Message dialog closed, result: Ok, title: Message, text: MapBuildDataRegistry /Game/Levels/TESTS/TEST_Pickupobject/TestLevel_PickUpObject_01/01_TESTLEVEL_BuiltData.01_TESTLEVEL_BuiltData is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+Internal referencers of MapBuildDataRegistry /Game/Levels/TESTS/TEST_Pickupobject/TestLevel_PickUpObject_01/01_TESTLEVEL_BuiltData.01_TESTLEVEL_BuiltData:
+   TextureCube /Game/Levels/TESTS/TEST_Pickupobject/TestLevel_PickUpObject_01/01_TESTLEVEL_BuiltData.01_TESTLEVEL_BuiltData:DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (2)
+      0) ObjectProperty /Script/Engine.Texture:AssetImportData
+      1) [[native reference]]
+
+
+[2021.11.24-15.36.25:490][786]LogObjectTools: Warning: ForceDeleteObject failed to delete 01_TESTLEVEL_BuiltData, this package is now potentially corrupt
+[2021.11.24-15.36.25:519][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.11.24-15.36.25:525][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.24-15.36.25:529][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.24-15.36.25:534][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-15.36.25:538][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-15.36.25:542][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-15.36.25:547][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-15.36.25:551][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.11.24-15.36.25:555][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.24-15.36.25:611][786]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.24-15.36.25:717][786]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.104 s
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: 					from the file system manually: 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: /Game/Levels/TESTS/TEST_Pickupobject/TestLevel_PickUpObject_01/01_TESTLEVEL_BuiltData
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: Stack: 
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5b5ba948 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5ae83169 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5a5cb269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5a8aeade UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5a8a5b97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c49a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c4b280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c30421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c37e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c367097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c359b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c8192b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c814410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1e9ce7e8 USER32.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1e9ce229 USER32.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c38865a UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c326b09 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5a941b9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5ae76952 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb4f40c618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb64262d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb64262f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb642523a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb4fd41af3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb4fd3af42 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb4fdbb6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb4fd3ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c49a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c4b280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c30421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c37e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c367097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c359b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c8192b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c814410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1e9ce7e8 USER32.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1e9ce229 USER32.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ffb5c82fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8a7621 UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:717][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8c0fbc UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8c10aa UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8c40cd UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8d5984 UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ff79f8d853a UE4Editor.exe!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1ec07034 KERNEL32.DLL!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: [Callstack] 0x00007ffc1f3c2651 ntdll.dll!UnknownFunction []
+[2021.11.24-15.36.25:718][786]LogOutputDevice: Error: 
